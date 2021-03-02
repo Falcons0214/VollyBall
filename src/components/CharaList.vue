@@ -31,7 +31,7 @@
               }}</v-card-title>
               <v-row>
                 <v-col class="ml-10">
-                  <v-img :src="currentUrl" width="54%" />
+                  <v-img :src="currentUrl" width="50%" />
                 </v-col>
                 <v-col class="mr-10">
                   <v-card-text
@@ -70,6 +70,7 @@
 }
 #charaCard {
   overflow-x: hidden;
+  overflow-y: hidden;
 }
 </style>
 

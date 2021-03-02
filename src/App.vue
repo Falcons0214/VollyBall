@@ -11,7 +11,7 @@
         </v-btn>
         <v-spacer />
         <v-btn height="0px" @click="changebackground()">
-          <v-app-bar-title class="text-h3 font-weight-black mt-5">
+          <v-app-bar-title class="text-h3 font-weight-black mt-5 mr-2">
             {{ $store.state.app.name }}
           </v-app-bar-title>
         </v-btn>

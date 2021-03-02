@@ -89,11 +89,6 @@ export default {
             url: "http://www.j-haikyu.com/anime/images/chara/menu/23.png",
             icon: "http://www.j-haikyu.com/anime/images/chara/main/23.png",
           },
-          {
-            id: 2,
-            url: "http://www.j-haikyu.com/anime/images/chara/menu/24.png",
-            icon: "http://www.j-haikyu.com/anime/images/chara/main/24.png",
-          },
         ],
       },
     ],
